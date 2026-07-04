@@ -1,10 +1,11 @@
-# Hi I'm Chen Jung Ku
+## Hi I'm Chen Jung Ku
+I'm currently contributing to the Linux kernel and developing Raspberry Pi hardware projects.
 ## My Contributions to the Linux Kernel
-## Linux Kernel Mainline record
+### Linux Kernel Mainline record
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Chen+Jung+Ku
-## LKML
+### LKML
 https://lore.kernel.org/all/?q=Chen+Jung+Ku
-
+## 
 
 
 <!--
