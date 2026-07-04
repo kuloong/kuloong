@@ -1,4 +1,11 @@
-## Hi there 👋
+# Hi I'm Chen Jung Ku
+## My Contributions to the Linux Kernel
+## Linux Kernel Mainline record
+https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Chen+Jung+Ku
+## LKML
+https://lore.kernel.org/all/?q=Chen+Jung+Ku
+
+
 
 <!--
 **kuloong/kuloong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
