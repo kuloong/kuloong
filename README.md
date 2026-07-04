@@ -2,17 +2,12 @@
 ### I'm currently contributing patches to the Linux kernel and developing Raspberry Pi firmware projects.
 ## My Contributions to the Linux Kernel
 ### Linux Kernel Mainline record
-```mermaid
-pie title Linux Kernel 貢獻比例
-    "LKML Message : 16
-    "Mainline record : 3
-````
 https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=author&q=Chen+Jung+Ku
 ### LKML
 https://lore.kernel.org/all/?q=Chen+Jung+Ku
 ## Embedded Firmware Project
 ### Raspberry Pi
-### STM32
+
 
 
 <!--
