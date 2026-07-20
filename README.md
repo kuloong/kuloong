@@ -6,8 +6,10 @@ https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/log/?qt=autho
 ### LKML
 https://lore.kernel.org/all/?q=Chen+Jung+Ku
 ## Embedded Firmware Project
-### Raspberry Pi
+### Raspberry Pi projects with Pi zero W (Gen 1)
+<img width="970" height="728" alt="image" src="https://github.com/user-attachments/assets/7c2bd450-d088-436a-8eca-777b4caf3798" />
 
+https://www.hackster.io/fzk89x
 
 
 <!--
